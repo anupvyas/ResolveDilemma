@@ -1,0 +1,6 @@
+{
+  "name": "Resolve Your Dilemma",
+  "description": "An AI-powered decision assistant that helps you resolve dilemmas through structured comparisons, pros and cons lists, and SWOT analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
